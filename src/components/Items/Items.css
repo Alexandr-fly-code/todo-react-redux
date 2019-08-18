@@ -1,0 +1,10 @@
+.textField {
+    width: 60%;
+}
+
+.textField input{
+    padding: 0;
+    padding-left: 10px;
+    height: 30px;
+    width: 60%;
+}
